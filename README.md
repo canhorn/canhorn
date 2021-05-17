@@ -1,16 +1,28 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+  - [EventHorizon.Blazor.TypeScript.Interop.Generator](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - A Blazor Interop Generator that will create an abstraction around just about any JavaScript library based on it TypeScript Definition file.
+  - [EventHorizon Game Development Platform](https://ehzgames.studio/game-development-platform.html) - This is a Game Development Platform that has a focus on user accessibility, making it easy to make games.
+- 🌱 I’m currently learning new way to use Blazor
+- 💬 Ask me about my Game Development Platform 
+- 📫 How to reach me: 
+  - [Twitter](https://twitter.com/CodyAnhorn)
+  - https://codyanhorn.tech/contact.html
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I Stream on Twitch https://twitch.tv/canhorn
+
 <!--
 **canhorn/canhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on 
+ - (EventHorizon Game Development Platform)[https://ehzgames.studio/game-development-platform.html]
+- 🌱 I’m currently learning Blazor
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about my Game Development Platform 
+- 📫 How to reach me: 
+  - https://codyanhorn.tech/contact.html
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I Stream on Twitch https://twitch.tv/canhorn
 -->
