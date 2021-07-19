@@ -7,7 +7,7 @@
 - 💬 Ask me about my Game Development Platform !!
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/CodyAnhorn)
-  - https://codyanhorn.tech/contact.html
+  - https://codyanhorn.tech/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Stream on Twitch https://twitch.tv/canhorn
 
