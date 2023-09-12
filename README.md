@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning new ways to use Blazor and WebAssembly in creative ways!
 - 💬 Ask me about my Game Development Platform !!
 - 📫 How to reach me: 
-  - [X also known as Twitter](https://x.com/CodyAnhorn)
+  - [Twitter aka X](https://x.com/CodyAnhorn)
   - https://codyanhorn.tech/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Stream on Twitch https://twitch.tv/canhorn
